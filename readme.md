@@ -1,4 +1,4 @@
-# Adaptive Auto Attack (AAA) — Exploration for Loop hole
+# Adaptive Auto Attack (AAA) — Exploration for finding Loop hole
  
 Code for evaluating adversarial robustness using the Adaptive Auto Attack framework with epsilon sweeps across multiple adversarially trained models.
  
