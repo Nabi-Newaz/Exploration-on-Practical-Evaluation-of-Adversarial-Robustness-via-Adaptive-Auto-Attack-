@@ -30,12 +30,12 @@ data/
 │   ├── 1/
 │   └── ...
 ```
+dataset can be downloaded from https://github.com/liuye6666/adaptive_auto_attack/tree/main/data/mnist_test.
  
 ## Models
- 
-**MNIST (L∞)**
- 
+
 * TRADES (SmallCNN)
+  
 ## Epsilon Sweep
  
 To sweep across multiple epsilon values for a given model, modify the eps_sweep list in the __main__ block:
